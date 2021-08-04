@@ -18,7 +18,9 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white">
-<img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white">	
+<img src="https://img.shields.io/badge/Pluralsight-F15B2A?style=for-the-badge&logo=Pluralsight&logoColor=white">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">
+<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white">
 </p>
 
 #### You can reach me on:
@@ -29,5 +31,6 @@
 [![Maxmilian Ferreira de Lemos StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6034820&theme=dark&layout=compact)](https://stackoverflow.com/users/6034820/max-ferreira)
 
 ![Maxmilian Ferreira de Lemos](https://github-readme-stats.vercel.app/api?username=maxdelemos&show_icons=true&title_color=fff&icon_color=bf0000&text_color=fff&bg_color=0033c6)
+
 
 
