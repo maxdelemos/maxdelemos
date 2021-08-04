@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Microservices in Node 
-- 💻 I’m currently working in [banQi](https://banqi.com.br/)
+- 💻 I’m currently working in  [<img src="https://banqi.com.br/assets/img/uploads/img-app.png" width=20>](https://banqi.com.br/)
 - 🌱 I’m currently learning gRPC(Node.Js) and Sequelize with PostgreSQL.
 <p>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
