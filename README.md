@@ -1,8 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Microservices in Node 
-- 💻 I’m currently working in  [<img src="https://banqi.com.br/assets/img/uploads/img-app.png" width=20>](https://banqi.com.br/)
-- 🌱 I’m currently learning gRPC(Node.Js) and Sequelize with PostgreSQL.
+- 🔭 I’m currently working on Java and VueJs
+- 💻 I’m currently working in  [<img src="https://vegamonitoramento.com.br/wp-content/uploads/2022/04/logo-vega-s.png" width=100>](https://vegamonitoramento.com.br/)
+
+
 <p>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
